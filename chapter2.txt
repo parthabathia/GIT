@@ -1,1 +1,1 @@
-This is the chapter2 of the git version control module.
+This is the chapter2 of the git version control module. This will be committed to the branch.
